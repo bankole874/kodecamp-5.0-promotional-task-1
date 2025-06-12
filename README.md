@@ -97,3 +97,11 @@ A simple ATM-like interface to manage a user’s balance.
    ```bash
    git clone https://github.com/your-username/python-mini-projects.git
    cd python-mini-projects
+2. Run any task:
+   ```bash
+   python task1_student_grade_evaluator.py
+3. Replace the filename (task1_...) with the task you want to try.
+
+
+## 🙌 Contributions
+Feel free to fork and submit pull requests if you’d like to improve or extend any of these mini projects!
