@@ -1,4 +1,4 @@
-# Python Mini Projects: Tasks 1–5
+# Python Promotional Task One (1–5)
 
 This repository contains five beginner-friendly Python programs simulating real-world scenarios. Each task uses fundamental programming concepts like loops, conditionals, and user input handling.
 
